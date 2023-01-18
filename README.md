@@ -1,3 +1,3 @@
 # Desafio-dio
 
-Meu repositório para os desafios do curso Pottencial .Net Developer
+Meu novo repositório para os desafios do curso Pottencial .Net Developer
